@@ -1,0 +1,8 @@
+ButlerIA
+
+The project is based on a public dataset from Kaggle. The dataset idea is to analize the difference between
+the two different text speeches in AI and Human. The idea of this project is to analize and build a tool to differentiate 
+AI and Human text. 
+
+First step is to download the dataset on Kaggle: https://www.kaggle.com/datasets/hasanyiitakbulut/ai-and-human-text-dataset
+
