@@ -4,4 +4,5 @@
 # Dataset enorme
 data/
 
+# Ambiente Virtual
 .venv
