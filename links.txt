@@ -1,0 +1,6 @@
+link original do dataset Kaggle:
+https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text
+
+link jupyter notebooks on Kaggle:
+1. https://www.kaggle.com/code/abhishekgodara/human-vs-ai-generated-text-classifier/notebook
+2. https://www.kaggle.com/code/sarazahran1/human-vs-ai-text-classifier
