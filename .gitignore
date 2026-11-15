@@ -1,8 +1,21 @@
-# VSCode
-.vscode
+# Ambientes e dependências locais
+.venv/
+venv/
+.deps/
 
-# Dataset enorme
+# Dados e artefatos gerados
 data/
+models/
+*.log
+interface-preview.jpg
 
-# Ambiente Virtual
-.venv
+# Caches Python e Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editor e configurações locais
+.vscode/
+.env
+.env.*
+!.env.example

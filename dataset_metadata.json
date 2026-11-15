@@ -1,0 +1,9 @@
+{
+  "local_filename": "data/ai_human.csv",
+  "downloaded_date": "2026-11-08",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/shanegerami/ai-vs-human-text",
+  "source": "https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text",
+  "original_filename": "AI_Human.csv",
+  "sha256": "E0D9BDFC46DC20E6C4B5E8628C0F3FCA45B718CD35FA42A89B609DF1CCD75A13",
+  "bytes": 1110944410
+}
